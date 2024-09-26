@@ -11,14 +11,14 @@ This Python program uses the `pyttsx3` library to provide a text-to-speech conve
 6. The `engine.runAndWait()` function is used to run and wait for the speech to finish before moving on to the next name.<br>
 
 # Features
-Takes multiple names as input from the user<br>
-Provides a personalized shotout to each name using a male voice<br>
-Adjustable speaking rate<br>
-Uses the `pyttsx3` library for text-to-speech conversion<br>
+- Takes multiple names as input from the user<br>
+- Provides a personalized shotout to each name using a male voice<br>
+- Adjustable speaking rate<br>
+- Uses the `pyttsx3` library for text-to-speech conversion<br>
 
 # Requirements
-Python 3.x<br>
-`pyttsx3` library installed<br>
+- Python 3.x<br>
+- `pyttsx3` library installed<br>
 
 # Usage
 1. Run the program in a Python environment.<br>
