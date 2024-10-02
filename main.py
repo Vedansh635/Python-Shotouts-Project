@@ -30,3 +30,4 @@ for name in names_list:
     engine.say(f'Shotout to {name}')
     # running and waiting for the speech to finish
     engine.runAndWait()
+# NOTE: All code is written by me , except comments .
